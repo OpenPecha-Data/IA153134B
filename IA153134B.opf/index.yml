@@ -1,0 +1,14 @@
+id: 170e2791941e4c5b9d5edaba7a49e8e2
+annotation_type: index
+revision: '00001'
+annotations:
+  20665878709849b3bf0ae3d77b4aab0a:
+    base: f9446.txt
+    span:
+      start: 0
+      end: 165977
+  60bb18e3706f48cfba2cb2ad1066767d:
+    base: fB20B.txt
+    span:
+      start: 0
+      end: 443555
